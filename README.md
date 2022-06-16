@@ -11,6 +11,6 @@ in label name, xxx.x meanings:
 
 .5 :very special situation.
 
-.6 :the last character for the whole artwork.
+.6 :the last character for the whole paragragh，may be not one in a whole artwork.
 
 .7 :signature or date or location from calligraphiers.

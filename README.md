@@ -14,3 +14,5 @@ in label name, xxx.x meanings:
 .6 :the last character for the whole paragragh，may be not one in a whole artwork.
 
 .7 :signature or date or location from calligraphiers.
+
+.8 :title or instruction of the artwork.
